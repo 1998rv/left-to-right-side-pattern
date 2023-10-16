@@ -1,1 +1,1 @@
-# left-to-right-side-pattern
+# Left-To-Right-Side-Pattern

@@ -67,3 +67,22 @@
 #     for j in range(0,i):
 #         print("*",end=" ")
 #     print("\r")
+
+#
+# car = {
+# "brand": "Ford",
+# "model": "Mustang",
+# "year": 1964
+# }
+#
+# car["color"] = "white"
+#
+# print(car) #after the change
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+thisdict["year"] = 2018
+print(thisdict)

@@ -1,3 +1,8 @@
+
+# Developer Name :- Ravi Kumawat
+# Date :- 20 -10-2023
+# Code :-
+
 # * * * * *
 #   * * * *
 #     * * *
@@ -25,8 +30,8 @@
 #         print(l,end="")
 #     a = a - 2
 #     print("\r")
-
-# 8 8 8 8 8
+#
+# # 8 8 8 8 8
 #   6 6 6 6
 #     4 4 4
 #       2 2
@@ -56,4 +61,3 @@
 #         print(a,end="")
 #     a = chr(65+i)
 #     print("\r")
-
